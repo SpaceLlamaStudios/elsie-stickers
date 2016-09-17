@@ -1,4 +1,57 @@
 {
+  "stickers" : [
+    {
+      "filename" : "elsieFIGHT.sticker"
+    },
+    {
+      "filename" : "elsieHEART.sticker"
+    },
+    {
+      "filename" : "elsieHYPE.sticker"
+    },
+    {
+      "filename" : "elsieLOVE.sticker"
+    },
+    {
+      "filename" : "elsieOMG.sticker"
+    },
+    {
+      "filename" : "elsieRAGE.sticker"
+    },
+    {
+      "filename" : "elsieSALUTE.sticker"
+    },
+    {
+      "filename" : "elsieSUCCESS.sticker"
+    },
+    {
+      "filename" : "burrito.sticker"
+    },
+    {
+      "filename" : "elsieSCARE.sticker"
+    },
+    {
+      "filename" : "elsieSOB.sticker"
+    },
+    {
+      "filename" : "elsieSPOOKY.sticker"
+    },
+    {
+      "filename" : "lewd.sticker"
+    },
+    {
+      "filename" : "ohgod.sticker"
+    },
+    {
+      "filename" : "oops.sticker"
+    },
+    {
+      "filename" : "plz.sticker"
+    },
+    {
+      "filename" : "sleep.sticker"
+    }
+  ],
   "info" : {
     "version" : 1,
     "author" : "xcode"

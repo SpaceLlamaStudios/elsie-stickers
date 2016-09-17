@@ -17,7 +17,7 @@
                BlueprintIdentifier = "F2FEAD601D16413F004D7648"
                BuildableName = "StickerPackExtension.appex"
                BlueprintName = "StickerPackExtension"
-               ReferencedContainer = "container:OMGElsie Stickers.xcodeproj">
+               ReferencedContainer = "container:elsieOMG.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -29,9 +29,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "F2FEAD5C1D16413E004D7648"
-               BuildableName = "OMGElsie Stickers.app"
-               BlueprintName = "OMGElsie Stickers"
-               ReferencedContainer = "container:OMGElsie Stickers.xcodeproj">
+               BuildableName = "elsieOMG.app"
+               BlueprintName = "elsieOMG"
+               ReferencedContainer = "container:elsieOMG.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -49,7 +49,7 @@
             BlueprintIdentifier = "F2FEAD601D16413F004D7648"
             BuildableName = "StickerPackExtension.appex"
             BlueprintName = "StickerPackExtension"
-            ReferencedContainer = "container:OMGElsie Stickers.xcodeproj">
+            ReferencedContainer = "container:elsieOMG.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -66,16 +66,26 @@
       debugServiceExtension = "internal"
       allowLocationSimulation = "YES"
       launchAutomaticallySubstyle = "2">
-      <BuildableProductRunnable
-         runnableDebuggingMode = "0">
+      <RemoteRunnable
+         runnableDebuggingMode = "1"
+         BundleIdentifier = "com.apple.MobileSMS">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "F2FEAD5C1D16413E004D7648"
-            BuildableName = "OMGElsie Stickers.app"
-            BlueprintName = "OMGElsie Stickers"
-            ReferencedContainer = "container:OMGElsie Stickers.xcodeproj">
+            BlueprintIdentifier = "F2FEAD601D16413F004D7648"
+            BuildableName = "StickerPackExtension.appex"
+            BlueprintName = "StickerPackExtension"
+            ReferencedContainer = "container:elsieOMG.xcodeproj">
          </BuildableReference>
-      </BuildableProductRunnable>
+      </RemoteRunnable>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "F2FEAD601D16413F004D7648"
+            BuildableName = "StickerPackExtension.appex"
+            BlueprintName = "StickerPackExtension"
+            ReferencedContainer = "container:elsieOMG.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
@@ -91,9 +101,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "F2FEAD5C1D16413E004D7648"
-            BuildableName = "OMGElsie Stickers.app"
-            BlueprintName = "OMGElsie Stickers"
-            ReferencedContainer = "container:OMGElsie Stickers.xcodeproj">
+            BuildableName = "elsieOMG.app"
+            BlueprintName = "elsieOMG"
+            ReferencedContainer = "container:elsieOMG.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
