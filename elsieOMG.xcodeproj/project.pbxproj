@@ -254,7 +254,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
 				INFOPLIST_FILE = StickerPackExtension/Info.plist;
-				PRODUCT_BUNDLE_IDENTIFIER = "SSC.OMGElsie-Stickers.StickerPackExtension";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.spacellamastudios.OMGElsie-Stickers.StickerPackExtension";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -266,7 +266,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
 				INFOPLIST_FILE = StickerPackExtension/Info.plist;
-				PRODUCT_BUNDLE_IDENTIFIER = "SSC.OMGElsie-Stickers.StickerPackExtension";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.spacellamastudios.OMGElsie-Stickers.StickerPackExtension";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -278,7 +278,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
 				INFOPLIST_FILE = "OMGElsie Stickers/Info.plist";
-				PRODUCT_BUNDLE_IDENTIFIER = "SSC.OMGElsie-Stickers";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.spacellamastudios.OMGElsie-Stickers";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -289,7 +289,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
 				INFOPLIST_FILE = "OMGElsie Stickers/Info.plist";
-				PRODUCT_BUNDLE_IDENTIFIER = "SSC.OMGElsie-Stickers";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.spacellamastudios.OMGElsie-Stickers";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
